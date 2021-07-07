@@ -7,5 +7,5 @@ public class ClassicalMusic implements Music{
         return "Hungarian Rhapsody";
     }
 
-    // тестовый запуск
+    // тестовый запуск #2
 }
